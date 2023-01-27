@@ -1,0 +1,36 @@
+
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+h3{
+    color:red;
+}
+.paral2{
+    color:brown;
+}
+.para1{
+   color: brown;
+   text-decoration:overline;
+}
+.paral2{
+    display:inline;
+    background-color: yellow;
+}
+.paral4{
+    color:brown;
+}
+
+.line{
+    letter-spacing: 5px;
+}
+.line2{
+    line-height: 150%;
+}
+p{
+    color:brown;
+
+}
+
